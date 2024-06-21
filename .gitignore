@@ -1,0 +1,6 @@
+/myenv
+/docker/redash
+/docker/incubator-superset
+__pycache__ 
+/data
+data/MachineLearningRating_v3.txt.dvc
